@@ -16,9 +16,9 @@ direc =  "/ image"
 global root_dir
 
 
-
+# this ali express
 # driver
-browser = r'E:\Code\Python\Office\28_date\chromedriver.exe'
+browser = r'chromedriver.exe'
 
 #  url of aliexpress
 url = "https://www.aliexpress.com"
